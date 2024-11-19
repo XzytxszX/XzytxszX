@@ -1,7 +1,7 @@
 ## Hi there, I'm Samuel 👋🏽
 
 - I’m currently working on Full-Stack
-- I’m currently learning JS
+- I’m currently learning JS (Such a complicated thing)
 - I’m looking to collaborate on Full-Stack projects
 - I think that's it.
 
