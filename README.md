@@ -1,8 +1,8 @@
 ## Hi there, I'm Samuel 👋🏽
 
-- I’m currently working on Full-Stack
+- My name is <strong>Samuel</strong>, a developer in constant evolution, passionate about games and programming.
 - I’m currently learning JS (Such a complicated thing)
-- I’m looking to collaborate on Full-Stack projects
+- I’m looking to collaborate on Front-end projects
 - I think that's it.
 
 <table>
