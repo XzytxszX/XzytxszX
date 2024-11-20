@@ -36,15 +36,6 @@
   </tr>
 </table>
 
-### 🌐 Social media
-
-<div> 
-  <a href="https://www.youtube.com/@samuelxzys" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/samuelxzys/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/samuelxzys" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/bRwK28gXfj" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  
-  </div>
-
 ### • Quote:
 
 _"If you've done something you believe is very good, spend your time on it and do something even more splendid. For the future, just discover what the next marvel is"_ - Steve Jobs
