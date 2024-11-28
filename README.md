@@ -35,7 +35,3 @@
     </td>
   </tr>
 </table>
-
-### • Quote:
-
-_"If you've done something you believe is very good, spend your time on it and do something even more splendid. For the future, just discover what the next marvel is"_ - Steve Jobs
