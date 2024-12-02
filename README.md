@@ -1,7 +1,7 @@
 ## Hi there, I'm Samuel 👋🏽
 
 - My name is <strong>Samuel</strong>, a developer in constant evolution, passionate about games and programming.
-- 🧐
+- XD
 - I think that's it.
 
 <table>
